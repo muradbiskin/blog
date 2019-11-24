@@ -1,10 +1,10 @@
 {
-  "title": "Murad Biskin Blog",
+  "title": "Murad Biskin",
   "layout_style": "grid",
   "palette": "green",
   "header": {
     "title": "Murad Biskin",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/10.jpg",
     "has_nav": true
   },
   "footer": {
