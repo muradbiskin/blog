@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Protuct Hunt",
+      "icon": "product-hunt",
+      "url": "https://www.producthunt.com/@muradbiskin"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
